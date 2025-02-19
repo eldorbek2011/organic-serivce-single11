@@ -61,21 +61,18 @@ a {
     opacity: 0px;
     position: relative;
     background: #FAFAFA;
-
 }
 
 .header__nav-shop-link1 {
-
     position: absolute;
     top: 5px;
-
-    right: 5px;
+    right: 0px;
 }
 
 .header__nav-shop-link2 {
     position: absolute;
     top: 5px;
-    right: -120px;
+    right: -100px;
 }
 
 .header__main {
